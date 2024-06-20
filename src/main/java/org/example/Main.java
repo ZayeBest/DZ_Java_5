@@ -1,7 +1,7 @@
 package org.example;
 
-import Classes.MyInt;
-import Classes.Point;
+import org.example.Classes.MyInt;
+import org.example.Classes.Point;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

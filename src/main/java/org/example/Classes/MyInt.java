@@ -1,4 +1,4 @@
-package Classes;
+package org.example.Classes;
 
 public class MyInt{
     public int x;
